@@ -1,11 +1,11 @@
 - Hi, I’m Alex also known as @Shmeowlex
 - I program computers, ride skateboards, and go to Disneyland.
 - email: shmeowlex@gmail.com
-- [LinkedIn](linkedin.com/in/alex-st-aubin)
-- [Twitter](https://twitter.com/shmeowlex)
-- [Instagram](https://www.instagram.com/shmeowlex/)
+- [LinkedIn](https://www.linkedin.com/in/alex-st-aubin/)
 - [Youtube](https://www.youtube.com/user/dominos121212)
 - [Twitch](https://www.twitch.tv/shmeowlex)
+- [Instagram](https://www.instagram.com/shmeowlex/)
+- [Twitter](https://twitter.com/shmeowlex)
 
 <!---
 Shmeowlex/Shmeowlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
