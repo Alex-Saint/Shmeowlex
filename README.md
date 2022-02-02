@@ -1,5 +1,5 @@
-- Hi, I’m Alex also known as @Shmeowlex
-- I program computers, ride skateboards, and go to Disneyland.
+- Hi 👋 I am Alex, also known as @Shmeowlex
+- Skate is life. Disney is happiness.
 - shmeowlex@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/alex-st-aubin/)
 - [Youtube](https://www.youtube.com/user/dominos121212)
